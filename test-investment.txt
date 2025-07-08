@@ -1,0 +1,14 @@
+Investment Portfolio Summary
+
+Investor: Carol Lee
+Account Number: 246813579
+
+Holdings:
+- 50 shares of ABC Corp
+- 100 shares of XYZ Inc
+- 200 shares of Growth Fund
+
+Dividends Received: $120.00
+Portfolio Value: $15,000.00
+
+Thank you for investing with us! 

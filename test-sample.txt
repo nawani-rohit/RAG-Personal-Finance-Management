@@ -1,0 +1,16 @@
+Bank Statement for June 2024
+
+Account Holder: Alice Smith
+Account Number: 987654321
+
+Opening Balance: $2,000.00
+
+Transactions:
+- Deposit: $1,000.00 on June 2, 2024
+- Withdrawal: $300.00 on June 5, 2024
+- Payment to Utility: $120.00 on June 10, 2024
+- Deposit: $500.00 on June 15, 2024
+
+Closing Balance: $3,080.00
+
+Thank you for banking with us! 

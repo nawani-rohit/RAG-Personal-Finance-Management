@@ -1,0 +1,14 @@
+Credit Card Statement
+
+Cardholder: Bob Johnson
+Credit Card Number: 4111 1111 1111 1111
+Statement Period: 06/01/2024 - 06/30/2024
+
+Previous Balance: $500.00
+Payments: $200.00
+Purchases: $350.00
+Minimum Payment Due: $50.00
+Payment Due Date: 07/15/2024
+Credit Limit: $5,000.00
+
+Thank you for using our credit card services! 
